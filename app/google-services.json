@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260268856093",
+    "project_id": "ajaja-aa4c2",
+    "storage_bucket": "ajaja-aa4c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260268856093:android:4bcc9602af8984634fc7f4",
+        "android_client_info": {
+          "package_name": "com.example.ajaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260268856093-qfag556v6rujsv4g9him11ghin06r481.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcy0X6QJ7M-thTq3k8ocSf-sAMVqxqGhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260268856093-qfag556v6rujsv4g9him11ghin06r481.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
